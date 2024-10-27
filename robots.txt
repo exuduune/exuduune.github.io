@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://exuduune.github.io/sitemap_index.exuduune
